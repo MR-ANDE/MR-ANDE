@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MR-ANDE
 - 👀 I’m interested in working with application development
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 Trained in Java Full-Stack Development
 - 💞️ I’m looking to collaborate on Development
 
 <!---
